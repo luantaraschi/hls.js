@@ -1,7 +1,7 @@
 import { buildAbsoluteURL } from 'url-toolkit';
 import { LoadStats } from './load-stats';
 import { PlaylistLevelType } from '../types/loader';
-import { parseDateTime } from '../utils/date-time';
+import { parseDateTime } from '../utils/date';
 import type { LevelKey } from './level-key';
 import type {
   FragmentLoaderContext,

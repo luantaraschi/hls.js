@@ -1,5 +1,5 @@
 import { AttrList } from '../utils/attr-list';
-import { parseDateTime } from '../utils/date-time';
+import { parseDateTime } from '../utils/date';
 import { logger } from '../utils/logger';
 import type { MediaFragmentRef } from './fragment';
 
